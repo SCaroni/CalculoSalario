@@ -1,0 +1,2 @@
+Um algoritimo que le os valores de entrada (salário), e com base em um valor (R$1250.00), calcula o aumento de salário dos funcionários de uma empresa.
+Para funcionários que ganham até o valor (R$1250.00) recebem 15% de aumento, e funcionários que ganham acima desse valor 10% de aumento.
